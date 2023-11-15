@@ -5,8 +5,8 @@
 	 float: right;
 }
  nav ul {
-	 margin: 0;
-	 padding: 0;
+	 margin: 1100;
+	 padding: 100;
 	 list-style: none;
 }
  nav li {
@@ -14,10 +14,10 @@
 }
  body {
 	 background: #000000;
-	 color: #fff;
+	 color: #000000;
 }
  a {
-	 color: #808000
+	 color: #0044ff
 }
  h1 {
 	 color: #008080
