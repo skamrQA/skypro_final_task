@@ -4,23 +4,20 @@ head {
  head {
 	 float: right;
 }
- head {
-	 display: inline-block;
+.logo1 {
+	position:absolute;
+	left: 450px;
+	top: 40px;
 }
 .container0 {
-	margin: 3em auto;
-    padding: 20px;
-	width: auto;
-    height: auto;
-  	display: flex;
-  	align-items: center;
-  	justify-content: left
+	text-align: center;
+  	display: run-in;
+	font-size: 2rem;
 	}
-	
 .container {
 	background-image: linear-gradient(to right, #ffffff, #814a4a);
     margin: 2em auto;
-    padding: 20%;
+    padding: 10%;
 	width: auto;
     height: auto;
 	font-size: 80%;
